@@ -1,0 +1,7 @@
+{
+  "name": "piada",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
